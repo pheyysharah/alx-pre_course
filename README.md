@@ -1,3 +1,1 @@
-# alx-pre_course
-# alx-pre_course
-# alx-pre_course
+This is the README.md file at the root of the repository.
